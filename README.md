@@ -1,5 +1,5 @@
 <div align='center'>
-<h2>Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning</h2>
+<h2>Walk Before You Run! <br/>Concise LLM Reasoning via Reinforcement Learning</h2>
 
 <!-- TODO:  Paper, Models-->
 [![Paper](https://img.shields.io/badge/paper-5f16a8?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2503.17287)
