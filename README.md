@@ -8,6 +8,7 @@
 </div>
 
 <p align='center'>
-<img src="img/conciser_preview.png" width = "90%" />
+<img src="img/conciser_preview.png" width = "70%" />
 </p>
 
+Coming soon...
