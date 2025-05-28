@@ -7,4 +7,7 @@
     src="https://img.shields.io/badge/HuggingFace-fcd022?style=for-the-badge&logo=huggingface&logoColor=000&labelColor"/></a>
 </div>
 
-coming soon...
+<p align='center'>
+<img src="img/conciser_preview.png" width = "90%" />
+</p>
+
