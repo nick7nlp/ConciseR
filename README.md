@@ -13,11 +13,12 @@
 
 ## 🎉News
 
-- **[2025/05/27]** 🎉 We release [**ConciseR-Zero-7B**](https://huggingface.co/Nickyang/ConciseR-Zero-7B) and [**ConciseR-Zero-7B-Preview**](https://huggingface.co/Nickyang/ConciseR-Zero-7B-Preview).
+- **[2025/05/27]** 🎉 We release [**ConciseR-Zero-7B**](https://huggingface.co/Nickyang/ConciseR-Zero-7B) and [**ConciseR-Zero-7B-Preview**](https://huggingface.co/Nickyang/ConciseR-Zero-7B-Preview). **ConciseR-Zero-7B-Preview** denotes the model derived from the first training stage in **ConciseR**, while **ConciseR-Zero-7B** indicates the model derived from the second.
 
 ## 📑Introduction
 
 In this work, we propose a simple yet effective two-stage reinforcement learning framework for achieving concise reasoning in LLMs, named ConciseR. Specifically, the first stage, using more training steps, aims to incentivize the model's reasoning capabilities via **G**roup **R**elative **P**olicy **O**ptimization with clip-higher and dynamic sampling (**GRPO++**), and the second stage, using fewer training steps, explicitly enforces conciseness and improves efficiency via **L**ength-aware **G**roup **R**elative **P**olicy **O**ptimization (**L-GRPO**). **Significantly, ConciseR only optimizes response length once all rollouts of a sample are correct, following the "walk before you run" principle**. Extensive experimental results demonstrate that our ConciseR model, which generates more concise CoT reasoning responses, outperforms recent state-of-the-art reasoning models across AIME 2024, AMC 2023, MATH-500, Minerva, and Olympiad benchmarks.
+
 
 ## ✨Key Results
 
