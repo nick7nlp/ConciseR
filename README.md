@@ -17,9 +17,7 @@
 
 ## ✨Key Results
 
-We report Pass@1 accuracy averaged over 16 samples for each problem.
-
-Here's the table formatted according to the GitHub style you requested:
+We report Pass@1 accuracy averaged over 32 samples for each problem.
 
 | Model | AIME 2024 | MATH-500 | AMC 2023 | Minerva | Olympiad | Avg. Score |
 |-------|-----------|-----------|-----------|---------|----------|------------|
