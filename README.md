@@ -62,6 +62,8 @@ We report Pass@1 accuracy averaged over 32 samples for each problem.
 
 ## 🎈Citation
 
+If you find our work helpful, feel free to give us a cite.
+
 ```bibtex
 @misc{fastcurl,
       title={Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning}, 
